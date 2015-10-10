@@ -1,1 +1,1 @@
-Objective: create interface to use firebird with Python
+Objective: create interface to use Firebird database with Python
